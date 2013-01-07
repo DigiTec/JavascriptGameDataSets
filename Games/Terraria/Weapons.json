@@ -1,0 +1,226 @@
+{
+    /* Shortswords */
+    "Copper Shortsword": {
+        "name": "Copper Shortsword",
+        "type": "shortsword",
+        "damage": 5,
+        "speed": "Very Fast",
+        "obtained": {
+            "spawn": 1,
+            "crafting": 1
+        }
+    },
+    "Iron Shortsword": {
+        "name": "Iron Shortsword",
+        "type": "shortsword",
+        "damage": 8,
+        "speed": "Very Fast",
+        "obtained": {
+            "crafting": 1
+        }
+    },
+    "Silver Shortsword": {
+        "name": "Silver Shortsword",
+        "type": "shortsword",
+        "damage": 9,
+        "speed": "Very Fast",
+        "obtained": {
+            "crafting": 1
+        }
+    },
+    "Gold Shortsword": {
+        "name": "Gold Shortsword",
+        "type": "shortsword",
+        "damage": 11,
+        "speed": "Very Fast",
+        "obtained": {
+            "crafting": 1
+        }
+    },
+
+    /* Broadswords */
+    "Wooden Sword": {
+        "name": "Wooden Sword",
+        "type": "broadsword",
+        "damage": 7,
+        "speed": "Fast",
+        "obtained": {
+            "crafting": 1
+        }
+    },
+    "Copper Broadsword": {
+        "name": "Copper Broadsword",
+        "type": "broadsword",
+        "damage": 8,
+        "speed": "Fast",
+        "obtained": {
+            "crafting": 1
+        }
+    },
+    "Iron Broadsword": {
+        "name": "Iron Broadsword",
+        "type": "broadsword",
+        "damage": 10,
+        "speed": "Average",
+        "obtained": {
+            "crafting": 1
+        }
+    },
+    "Silver Broadsword": {
+        "name": "Silver Broadsword",
+        "type": "broadsword",
+        "damage": 11,
+        "speed": "Average",
+        "obtained": {
+            "crafting": 1
+        }
+    },
+    "Gold Broadsword": {
+        "name": "Gold Broadsword",
+        "type": "broadsword",
+        "damage": 13,
+        "speed": "Fast",
+        "obtained": {
+            "crafting": 1
+        }
+    },
+    "Light's Bane": {
+        "name": "Light's Bane",
+        "type": "broadsword",
+        "damage": 17,
+        "speed": "Very Fast",
+        "obtained": {
+            "crafting": 1
+        }
+    },
+    "Cobalt Sword": {
+        "name": "Cobalt Sword",
+        "type": "broadsword",
+        "damage": 34,
+        "speed": "Fast",
+        "obtained": {
+            "crafting": 1
+        }
+    },
+    "Mythril Sword": {
+        "name": "Mythril Sword",
+        "type": "broadsword",
+        "damage": 39,
+        "speed": "Average",
+        "obtained": {
+            "crafting": 1
+        }
+    },
+    "Adamantite Sword": {
+        "name": "Adamantite Sword",
+        "type": "broadsword",
+        "damage": 44,
+        "speed": "Average",
+        "obtained": {
+            "crafting": 1
+        }
+    },
+
+    /* Bows */
+    "Wooden Bow": {
+        "name": "Wooden Bow",
+        "type": "bow",
+        "damage": 4,
+        "speed": "Average",
+        "obtained": {
+            "crafting": 1
+        }
+    },
+    "Copper Bow": {
+        "name": "Copper Bow",
+        "type": "bow",
+        "damage": 8,
+        "speed": "Slow",
+        "obtained": {
+            "crafting": 1
+        }
+    },
+    "Iron Bow": {
+        "name": "Iron Bow",
+        "type": "bow",
+        "damage": 9,
+        "speed": "Slow",
+        "obtained": {
+            "crafting": 1
+        }
+    },
+    "Silver Bow": {
+        "name": "Silver Bow",
+        "type": "bow",
+        "damage": 10,
+        "speed": "Slow",
+        "obtained": {
+            "crafting": 1
+        }
+    },
+    "Gold Bow": {
+        "name": "Gold Bow",
+        "type": "bow",
+        "damage": 11,
+        "speed": "Slow",
+        "obtained": {
+            "crafting": 1
+        }
+    },
+    "Demon Bow": {
+        "name": "Demon Bow",
+        "type": "bow",
+        "damage": 14,
+        "speed": "Fast",
+        "obtained": {
+            "crafting": 1
+        }
+    },
+    "Molten Fury": {
+        "name": "Molten Fury",
+        "type": "bow",
+        "damage": 29,
+        "speed": "Average",
+        "obtained": {
+            "crafting": 1
+        }
+    },
+
+    /* Repeaters */
+    "Cobalt Repeater": {
+        "name": "Cobalt Repeater",
+        "type": "repeater",
+        "damage": 30,
+        "speed": "Fast",
+        "obtained": {
+            "crafting": 1
+        }
+    },
+    "Mythril Repeater": {
+        "name": "Mythril Repeater",
+        "type": "repeater",
+        "damage": 34,
+        "speed": "Fast",
+        "obtained": {
+            "crafting": 1
+        }
+    },
+    "Adamantite Repeater": {
+        "name": "Adamantite Repeater",
+        "type": "repeater",
+        "damage": 37,
+        "speed": "Very Fast",
+        "obtained": {
+            "crafting": 1
+        }
+    },
+    "Hallowed Repeater": {
+        "name": "Hallowed Repeater",
+        "type": "repeater",
+        "damage": 39,
+        "speed": "Very Fast",
+        "obtained": {
+            "crafting": 1
+        }
+    }
+}
