@@ -1,0 +1,32 @@
+<!DOCTYPE>
+
+<script>
+function getData(file)
+{
+    var httpReq = new XMLHttpRequest();
+    httpReq.open("GET", file, false);
+    httpReq.send();
+
+    if (httpReq.status === 200)
+    {
+        return httpReq.responseText;
+    }
+}
+
+function testLoadTrie()
+{
+    var start = (new Date()).getTime();
+    var data = getData("https://raw.github.com/DigiTec/JavascriptGameDataSets/master/Dicts/Moby/single.trie.json");
+    var mid = (new Date()).getTime();
+    var trie = JSON.parse(data);
+    var end = (new Date()).getTime();
+}
+
+function testLoadArray()
+{
+}
+</script>
+
+<body>
+   <button onclick="testLoadTrie();">Try Load Trie</button>
+</body>
